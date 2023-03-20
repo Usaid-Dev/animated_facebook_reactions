@@ -2,4 +2,5 @@
 
 ## Video of app
 
-https://user-images.githubusercontent.com/67046451/220968681-38fb325f-aa7d-4280-9cb2-95d93f747bee.mp4
+<img src="https://user-images.githubusercontent.com/67046451/226421252-d9668574-4c61-43d8-a746-d9a99fe91568.gif" width="100%" />
+
